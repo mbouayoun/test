@@ -1,4 +1,4 @@
-test par mb2
+test par mb3
 
 git remote add origin https://[TOKEN]@github.com/[USER]/[REPO]
 
