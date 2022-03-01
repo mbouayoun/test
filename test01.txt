@@ -1,0 +1,15 @@
+test par mb2
+
+git remote add origin https://[TOKEN]@github.com/[USER]/[REPO]
+
+To generate token
+
+(Github)
+1. In the upper-right corner of any page, click your profile photo, then click Settings.
+2. In the left sidebar, click  Developer settings
+3. Click Generate new token.
+4. Give your token a descriptive name.
+5. select repo
+6. Click Generate token
+
+
